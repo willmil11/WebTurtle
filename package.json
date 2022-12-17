@@ -1,0 +1,36 @@
+{
+  "name": "webturtle",
+  "version": "1.0.0",
+  "description": "WebTurtle is a Js librairy made to simplify canvas usage",
+  "main": "WebTurtle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willmil11/WebTurtle.git"
+  },
+  "files": [
+    "WebTurtle.js",
+    "README.md",
+    "package.json"
+  ],
+  "keywords": [
+    "WebTurtle",
+    "webturtle",
+    "turtle",
+    "js",
+    "javascript",
+    "jsturtle",
+    "javascripturtle",
+    "javascriptturtle",
+    "draw",
+    "canvas"
+  ],
+  "author": "willmil11",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willmil11/WebTurtle/issues"
+  },
+  "homepage": "https://github.com/willmil11/WebTurtle#readme"
+}
