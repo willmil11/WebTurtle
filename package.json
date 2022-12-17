@@ -1,6 +1,6 @@
 {
   "name": "webturtle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "WebTurtle is a Js librairy made to simplify canvas usage",
   "main": "WebTurtle.js",
   "scripts": {
